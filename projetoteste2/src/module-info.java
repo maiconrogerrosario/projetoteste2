@@ -1,0 +1,2 @@
+module projetoteste2 {
+}
